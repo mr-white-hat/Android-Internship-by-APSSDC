@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="@color/colorBG">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.9"
+        android:text="0"
+        android:textSize="100sp"
+        android:gravity="center"
+        android:textColor="@color/colorTV"
+        android:id="@+id/TV"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.15"
+        android:id="@+id/relative">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/countInc"
+            android:text="+"
+            android:textSize="35sp"
+            android:background="@color/colorB1"
+            android:textColor="@color/white"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/countInc"
+            android:id="@+id/countDec"
+            android:text="-"
+            android:textSize="35sp"
+            android:background="@color/colorB2"
+            android:textColor="@color/white"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@id/countDec"
+            android:id="@+id/zero"
+            android:text="0"
+            android:textSize="35sp"
+            android:background="@color/colorB3"
+            android:textColor="@color/white"/>
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_toRightOf="@+id/zero"
+            android:id="@+id/toast"
+            android:text="Toast"
+            android:textSize="26sp"
+            android:background="@color/colorB4"
+            android:textColor="@color/white"
+            android:onClick="display"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
