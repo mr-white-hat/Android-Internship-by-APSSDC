@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Registration_Form</string>
+
+    <string name="gen">Gender</string>
+    <string name="brnh">Branch</string>
+
+    <string-array name="Gender">
+
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string-array name="Branch">
+
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>EEE</item>
+        <item>CIVIL</item>
+        <item>MECH</item>
+
+    </string-array>
+
+</resources>
