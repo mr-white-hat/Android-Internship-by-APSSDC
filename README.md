@@ -4,5 +4,9 @@ These projects are being developed during the Summer Internship on Android Devel
 <a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/ScoreBoardApp">2) Score Board App </a></br>
 <a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/LoginRegistrationPages">3) Login & Registration Form App </a></br>
 <a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/ShareText">4) Share Text App </a></br>
-<a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/CameraShare">5) Camera Share App </a></br>
-<a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Explicit_Intent">6) Explicit & Inplicit </a></br>
+<a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/CameraShare">=> Camera Share App </a></br>
+<a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Explicit_Intent">5) Explicit & Inplicit </a></br>
+<a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Registration_Form">6) Registration Form </a></br>
+<a href = "#">7) Context Menu </a></br>
+<a href = "#">8) Option Menus Implementation </a></br>
+<a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Recycler_View">9) Recycler View </a></br>
