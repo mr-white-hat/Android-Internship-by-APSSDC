@@ -7,6 +7,6 @@ These projects are being developed during the Summer Internship on Android Devel
 <a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/CameraShare">=> Camera Share App </a></br>
 <a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Explicit_Intent">5) Explicit & Inplicit </a></br>
 <a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Registration_Form">6) Registration Form </a></br>
-<a href = "#">7) Context Menu </a></br>
-<a href = "#">8) Option Menus Implementation </a></br>
+<a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Context_Menu">7) Context Menu </a></br>
+<a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Option_Menus">8) Option Menus Implementation </a></br>
 <a href = "https://github.com/mr-white-hat/Android-Internship-by-APSSDC/tree/master/Recycler_View">9) Recycler View </a></br>
